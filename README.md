@@ -7,7 +7,7 @@ TGE Website: https://www.aquest.io/<br>
 Smart Contract on Etherscan: https://etherscan.io/address/0x7756edf05ef3c2b321a85d77b5cbf7c8a9a7c247<br>
 Company Website: https://www.enkronos.com/<br>
 <br><b>Social Media Presence</b>:<br>
-LinkedIn: https://www.linkedin.com/showcase/aquest-app/<br>
+LinkedIn: https://www.linkedin.com/company/aquest-io<br>
 Facebook: https://www.facebook.com/aquest.io/<br>
 Twitter: https://twitter.com/aQuest_app<br>
 Instagram: https://www.instagram.com/aQuest_app/<br>
